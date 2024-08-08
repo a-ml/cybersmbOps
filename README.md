@@ -1,7 +1,3 @@
-Here's a comprehensive README text for your GitHub project:
-
----
-
 # 🚀 SMB Security Toolkit
 
 Welcome to the **SMB Security Toolkit**! This project aims to help small and medium-sized businesses (SMBs) protect the value of their business by putting together an accessible, integrated solution for managing cybersecurity risks.
