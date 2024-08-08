@@ -1,3 +1,7 @@
+<p align="center">
+  <img src='./resources/cybercrew.jpeg' width=550>
+</p>
+
 # 🚀 SMB Security Toolkit
 
 Welcome to the **SMB Security Toolkit**! This project aims to help small and medium-sized businesses (SMBs) protect the value of their business by putting together an accessible, integrated solution for managing cybersecurity risks.
