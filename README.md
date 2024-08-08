@@ -39,6 +39,7 @@ To get started with the SMB Security Toolkit, follow the installation instructio
 5. **Zeek**: [Installation Guide](https://github.com/zeek/zeek)
 6. **GoPhish**: [Installation Guide](https://github.com/gophish/gophish)
 7. **OpenCTI**: [Installation Guide](https://github.com/OpenCTI-Platform/opencti)
+8. **Integrate Wazuh and TheHive**: [Installation Guide](https://wazuh.com/blog/using-wazuh-and-thehive-for-threat-protection-and-incident-response/)
 
 ## 🚀 Getting Started
 
