@@ -32,6 +32,7 @@ This project leverages a range of powerful, open-source tools to provide compreh
 
 To get started with the SMB Security Toolkit, follow the installation instructions for each component:
 
+0. **Docker**: [Installation Guide](https://www.docker.com/blog/getting-started-with-docker-for-arm-on-linux/)
 1. **TheHive**: [Installation Guide](https://github.com/TheHive-Project/TheHive)
 2. **Wazuh**: [Installation Guide](https://github.com/wazuh/wazuh)
 3. **Snipe-IT**: [Installation Guide](https://github.com/snipe/snipe-it)
